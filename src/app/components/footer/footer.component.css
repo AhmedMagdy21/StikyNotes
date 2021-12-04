@@ -1,0 +1,28 @@
+footer{
+    padding: 30px;
+
+    background-color: #151516;
+    color: gray;
+    font-size: 10px;
+}
+a{
+        text-decoration: none;
+        color: rgba(128, 128, 128, 0.637);
+        padding: 10px;
+}
+a:hover{
+    color: gray;
+}
+.social {
+    padding: 5px;
+}
+i{
+    font-size: 16px;
+        margin: 10px;
+}
+i:hover{
+   color: #1f528d;
+}
+
+
+
